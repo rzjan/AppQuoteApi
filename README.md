@@ -1,18 +1,11 @@
-# Introduction 
+# Introducción 
 Api Rest desarrollada en .Net Core,Entity framework code first, Asp.net Identity core, Jwt, Swagger
 
-# Getting Started
+# Empezando
 1. Descargar o clonar el proyecto. git clone https://github.com/rzjan/AppQuoteApi.git
 2. Actualizar los paquetes nuget instalados.
 3. Ejecutar migrations.  
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+# Compilar y probar
+Compilar y ejecutar el proyecto (f5). Se ejecutara en el puerto 9000.
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
