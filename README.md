@@ -1,12 +1,10 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+Api Rest desarrollada en .Net Core,Entity framework code first, Asp.net Identity core, Jwt, Swagger
 
 # Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+1. Descargar o clonar el proyecto. git clone https://github.com/rzjan/AppQuoteApi.git
+2. Actualizar los paquetes nuget instalados.
+3. Ejecutar migrations.  
 
 # Build and Test
 TODO: Describe and show how to build your code and run the tests. 
